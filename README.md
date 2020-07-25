@@ -28,3 +28,14 @@ Understanding_NN_4.py
   Utilizing, and understanding the use of batches of inputs for neural networks. Calculations and structure is congruent to previous recreations.
 
   Disregards OOP and sophistication, as following files will build upon each recreated technique/knowledge
+
+Understanding_NN_5.py
+
+  Utilizing Object Oriented Programming to code an arbitrary neural network (forward-pass), with previously analyzed formulas and techniques, such as batch inputs.
+
+Understanding_NN_6.py
+
+  Analyzes activation functions, such as Step, Sigmoid, and Rectified Linear Unit (ReLU) functions, and combines it with the OOP design from the previous file.
+  
+  ReLU is specifically implemented (OOP), as it is very popular for hidden layers in neural networks.
+
